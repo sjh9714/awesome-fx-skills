@@ -1,4 +1,4 @@
-# Awesome fx Skills
+# Awesome fx Skills [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of skills, tools, and resources for [fx](https://github.com/vercel-labs/fx), the tiny open-source coding agent from Vercel Labs.
 
